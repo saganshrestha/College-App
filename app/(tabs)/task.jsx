@@ -39,8 +39,8 @@ const Task = () => {
                 <CustomButton
                   title="Upload File"
                   // handlePress={ () => router.push('/login') }
-                  containerStyles="bg-third border-[#34d8b9] rounded-lg px-4 mt-4"
-                  textStyles={"text-white text-sm font-pmedium tracking-widest"}
+                  containerStyles="bg-slate-200 rounded-lg px-4 mt-4"
+                  textStyles={"text-primary text-sm font-pmedium tracking-widest"}
                 />
                 <CustomButton
                   title="SUBMIT"
@@ -74,8 +74,8 @@ const Task = () => {
                 <CustomButton
                   title="Upload File"
                   // handlePress={ () => router.push('/login') }
-                  containerStyles="bg-third border-[#34d8b9] rounded-lg px-4 mt-4"
-                  textStyles={"text-white text-sm font-pmedium tracking-widest"}
+                  containerStyles="bg-slate-200 rounded-lg px-4 mt-4"
+                  textStyles={"text-primary text-sm font-pmedium tracking-widest"}
                 />
                 <CustomButton
                   title="SUBMIT"
@@ -109,8 +109,8 @@ const Task = () => {
                 <CustomButton
                   title="Upload File"
                   // handlePress={ () => router.push('/login') }
-                  containerStyles="bg-third border-[#34d8b9] rounded-lg px-4 mt-4"
-                  textStyles={"text-white text-sm font-pmedium tracking-widest"}
+                  containerStyles="bg-slate-200 rounded-lg px-4 mt-4"
+                  textStyles={"text-primary text-sm font-pmedium tracking-widest"}
                 />
                 <CustomButton
                   title="SUBMIT"
@@ -144,8 +144,8 @@ const Task = () => {
                 <CustomButton
                   title="Upload File"
                   // handlePress={ () => router.push('/login') }
-                  containerStyles="bg-third border-[#34d8b9] rounded-lg px-4 mt-4"
-                  textStyles={"text-white text-sm font-pmedium tracking-widest"}
+                  containerStyles="bg-slate-200 rounded-lg px-4 mt-4"
+                  textStyles={"text-primary text-sm font-pmedium tracking-widest"}
                 />
                 <CustomButton
                   title="SUBMIT"

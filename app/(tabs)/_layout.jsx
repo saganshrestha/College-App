@@ -3,7 +3,6 @@ import { View, Text } from 'react-native'
 import { Tabs, Redirect } from 'expo-router'
 import TabBar from '../../components/TabBar';
 
-
 const TabsLayout = () => {
     return (
         <>

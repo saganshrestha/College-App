@@ -8,13 +8,13 @@ import CustomButton from './../components/CustomButton';
 
 const index = () => {
   return (
-    <SafeAreaView className="bg-main_background h-full" >
+    <SafeAreaView className="h-full bg-main_background" >
       <ScrollView contentContainerStyle={{ height: '100%' }} >
-        <View className="w-full justify-center items-center h-full px-4">
-          <Text className="text-3xl text-primary font-bold text-center" >
+        <View className="items-center justify-center w-full h-full px-4">
+          <Text className="text-3xl font-bold text-center text-primary" >
             Welcome to College App
           </Text>
-          <Text className="text-1xl text-black mt-6 font-bold text-center" >
+          <Text className="mt-6 font-bold text-center text-black text-1xl" >
             LET ACCESS ALL WORK FROM HERE
           </Text>
           <CustomButton
